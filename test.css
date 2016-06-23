@@ -82,7 +82,8 @@ h2 {
   bottom: auto;
   left: auto;
   width: 1rem;
-  margin-left: 0; }
+  margin-left: 0;
+  line-height: 10rem; }
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
